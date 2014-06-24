@@ -21,6 +21,7 @@
     return self;
 }
 
+/*
 - (void)setIsAlive:(BOOL)newState {
     //when you create an @property as we did in the .h, an instance variable with a leading underscore is automatically created for you
     _isAlive = newState;
@@ -29,4 +30,5 @@
     self.visible = _isAlive;
 }
 
+ */
 @end
