@@ -335,7 +335,7 @@
 												<key>value</key>
 												<array>
 													<real>45</real>
-													<real>73</real>
+													<real>54.299999237060547</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -372,7 +372,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Population</string>
+													<string>0</string>
 													<false/>
 												</array>
 											</dict>
@@ -555,7 +555,7 @@
 												<key>value</key>
 												<array>
 													<real>43.169841766357422</real>
-													<real>54.310447692871094</real>
+													<real>73</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -592,7 +592,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>0</string>
+													<string>Population</string>
 													<false/>
 												</array>
 											</dict>
@@ -775,7 +775,7 @@
 												<key>value</key>
 												<array>
 													<real>45</real>
-													<real>36.206966400146484</real>
+													<real>16.700000762939453</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -812,7 +812,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Generation</string>
+													<string>0</string>
 													<false/>
 												</array>
 											</dict>
@@ -995,7 +995,7 @@
 												<key>value</key>
 												<array>
 													<real>47.347568511962891</real>
-													<real>16.710906982421875</real>
+													<real>36.200000762939453</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -1032,7 +1032,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>0</string>
+													<string>Generation</string>
 													<false/>
 												</array>
 											</dict>
@@ -1181,6 +1181,8 @@
 												</array>
 											</dict>
 										</array>
+										<key>selected</key>
+										<true/>
 									</dict>
 								</array>
 								<key>customClass</key>
@@ -1590,8 +1592,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
