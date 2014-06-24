@@ -61,7 +61,6 @@ static const int GRID_COLUMNS = 10;
             
             x+=_cellWidth;
         }
-        
         y += _cellHeight;
     }
 }
